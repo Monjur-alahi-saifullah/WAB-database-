@@ -1,0 +1,55 @@
+
+.head{ width: 100%; 
+    height: 150px; 
+    left: 0px; top: 0px; position: absolute; background-color: aqua;}
+.menu{
+    width: 100%; 
+    height: 50px; 
+    left: 0px; top: 151px; position: absolute; background-color: rgb(182, 136, 180);
+}
+
+.sbarl{ width: 30%; text-align: center;text-size-adjust: 20px;
+    height: 350px; 
+    left: 0px; top: 202px; position: absolute; background-color: rgb(194, 155, 14);}
+
+
+.cont{ width: 70%;
+    height: 350px; 
+    right: 0px; top: 202px; position: absolute; background-color: rgb(255, 255, 255);}
+.content img {
+            width: 49%;
+            height: 49%;
+            border: 2px solid;
+        }
+    
+ .cont table{ text-align: center;}   
+ .cont h1 {left: 20%; color: rgb(0, 0, 0);}
+ #pic h1 {left: 20%; height: 10px;color: rgb(168, 203, 233);font-weight: 700;}
+#pic img { position: absolute;
+    top: 20px;
+  object-fit:cover;
+  right: 20%;
+ } 
+
+
+    #footer{ width: 100%; 
+    height: 150px; 
+    left:0px; top: 553px; position: absolute; background-color: rgb(194, 121, 19);}
+    #footer p {text-align: right; color: rgb(0, 0, 0); font-size: 50px; 
+    }
+    .head img{
+        width: 100%; height: 150px;
+    }
+    .cont img { width: 49%; height: 49%; border: 2px solid;}
+    .cont text { left: 20px; top: 0px; width: 70%; height: 100%; background-color: rgb(195, 180, 18); position: absolute;}
+    .icone { right: 0px; top: 0px; width: 30%; height: 100%; background-color: rgb(216, 216, 216); position: absolute;}
+    .icone img { width: 50px; height: 50px; border-radius: 50%;}
+    .text{ text-align: center;}
+    ul {text-align: center;}
+    ul li { list-style: none; display: inline; padding: 50px;}
+    .menu a{text-decoration: none;}
+    .menu a:hover{ background-color: aquamarine; padding: 16px;}
+   
+    .cont p{ margin-left: 20px;}
+    
+
